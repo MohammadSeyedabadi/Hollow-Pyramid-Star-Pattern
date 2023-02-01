@@ -1,0 +1,5 @@
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Hollow Pyramid Star Pattern\Hollow Pyramid Star Pattern\Hollow Pyramid Star Pattern\bin\Debug\Hollow Pyramid Star Pattern.exe.config
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Hollow Pyramid Star Pattern\Hollow Pyramid Star Pattern\Hollow Pyramid Star Pattern\bin\Debug\Hollow Pyramid Star Pattern.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Hollow Pyramid Star Pattern\Hollow Pyramid Star Pattern\Hollow Pyramid Star Pattern\bin\Debug\Hollow Pyramid Star Pattern.pdb
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Hollow Pyramid Star Pattern\Hollow Pyramid Star Pattern\Hollow Pyramid Star Pattern\obj\Debug\Hollow Pyramid Star Pattern.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Hollow Pyramid Star Pattern\Hollow Pyramid Star Pattern\Hollow Pyramid Star Pattern\obj\Debug\Hollow Pyramid Star Pattern.pdb
